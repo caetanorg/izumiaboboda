@@ -1,0 +1,1 @@
+Publicar na raiz do dominio. 404.html usa caminhos absolutos (/assets/...). Muitos hosts (Netlify, Cloudflare Pages, GitHub Pages) usam 404.html automaticamente.
